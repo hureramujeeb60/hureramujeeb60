@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there 👋🏻
 
-<!--
-**hureramujeeb60/hureramujeeb60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Hurera, a Software Engineer with 2+ years of experience in building backend systems and scalable applications.
 
-Here are some ideas to get you started:
+I’m currently exploring the shift toward AI agents and distributed systems, with a growing interest in how intelligent workflows can be orchestrated to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Along the way, I’m:
+- Sharing my learnings and experiences on LinkedIn to help other developers grow  
+- Exploring AI agents, system design, and backend architecture  
+- Building side projects and experimenting with product ideas  
+- Helping others design and build scalable applications  
+
+### I write about:
+- Software Engineering  
+- System Design  
+- Building and thinking like an independent developer  
+
+---
+
+> “The world doesn’t always need more innovation. It needs builders who solve boring problems really well.”  
+— That’s my motto.
+
+---
+
+Always learning, always building 🚀
